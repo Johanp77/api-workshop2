@@ -1,0 +1,51 @@
+{
+    "food":[
+        {
+            "img": "",
+            "name" : "Aguacate Hass",
+            "price" : "69.9"
+        },
+        {
+            "img": "",
+            "name" : "Tomate",
+            "price" : "32.9"
+        },
+        {
+            "img": "",
+            "name" : "Limon Con Semilla",
+            "price" : "39.9"
+        },
+        {
+            "img": "",
+            "name" : "Coca-Cola Sin Azucar",
+            "price" : "26"
+        },
+        {
+            "img": "",
+            "name" : "Mc Cornic Mayonesa",
+            "price" : "48.5"
+        },
+        {
+            "img": "https://res.cloudinary.com/dzkollux2/image/upload/v1651244918/image_11_hofepb.png",
+            "name" : "San Rafael Pechuga De Pavo",
+            "price" : "62.5"
+        },
+        {
+            "img": "",
+            "name" : "Bimbo Pan Blanco Grande",
+            "price" : "38.9"
+        },
+        {
+            "img": "",
+            "name" : "Huevos San Juan",
+            "price" : "37.5"
+        }
+    ],
+    "aseo": [
+        {
+            "img": "",
+            "name" : "Colgate Pasta Dental",
+            "price" : "35.5"
+        }
+    ]
+}
